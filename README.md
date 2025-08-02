@@ -19,17 +19,9 @@
 
 ## 📌 Projects
 ### 🛍️ [Thrifting App](https://github.com/Halicefalcao/thrifting-app) — *JavaScript, CSS, HTML*
-Collaborating in a 6-7 member team to build a thrifting platform for Stony Brook students through SBCS Project Quack.  
-Currently working on the **signup page**, **welcome page**, and **navigation bar** to ensure a responsive UI/UX design.
-
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/tic-tac-toe) — *Python*
-Developed both command-line and GUI versions using Tkinter. Includes input validation and clean, optimized game logic.
-
 ### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/mailroom-simulator) — *Java*
-Built a stack-based mailroom system for sorting and retrieving packages. Designed logic to handle outdated package detection.
-
 ### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/theme-park-simulator) — *Java*
-Implemented queue structures to simulate amusement park ride management, holding lines, and transition tracking.
 
 
 ## 🧠 Current Involvement

@@ -1,12 +1,6 @@
 ##  Hi there, I'm Halice Sachin Falcao! 👋 
 
-<!--
-**Halicefalcao/Halicefalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## 🧰 Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-blue?logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)

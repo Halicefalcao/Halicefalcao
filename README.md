@@ -19,9 +19,9 @@
 
 ## 📌 Projects
 ### 🛍️ [Thrifting App](https://github.com/Halicefalcao/thrifting-app) — *JavaScript, CSS, HTML*
-### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/tic-tac-toe) — *Python*
-### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/mailroom-simulator) — *Java*
-### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/theme-park-simulator) — *Java*
+### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*
+### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*
+### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*
 
 
 ## 🧠 Current Involvement

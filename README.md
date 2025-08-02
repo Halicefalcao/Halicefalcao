@@ -18,11 +18,12 @@
 
 
 ## 📌 Projects
-### 🛍️ [Thrifting App](https://github.com/Halicefalcao/thrifting-app) — *JavaScript, CSS, HTML*
+### 🛍️ [Thrifting App]— *JavaScript, CSS, HTML* (Private Repo)
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*
 ### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*
 ### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*
-
+### ML_Project World Happiness Report (Private Repo)
+*Note: Repository is private due to program restrictions.*
 
 ## 🧠 Current Involvement
 ### 👩‍💻 **Machine Learning/AI Fellow**, Break Through Tech – Cornell Tech  

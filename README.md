@@ -34,7 +34,7 @@
 ## 💬 Hobbies & Interests
 Outside of programming, I love:
 - 🎨 Painting as a creative outlet and stress reliever  
-- 🛍️ Shopping and thrifting for unique finds and trends  
+- 👩‍💻 Mentoring and collaborating on student tech projects
 - 💻 Participating in student tech communities like **SBCS Project Quack** to collaborate on real-world projects and expand my technical network
 
 

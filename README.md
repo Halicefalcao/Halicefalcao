@@ -18,19 +18,17 @@
 
 
 ## 📌 Projects
-### 🛍️ [Thrifting App]— *JavaScript, CSS, HTML* (Private Repo)
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*
+  Created a two-player Tic-Tac-Toe game with command-line and GUI interfaces using Tkinter, including input validation and optimized game logic.
+
 ### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*
+  Built a stack-based system to efficiently manage package sorting, tracking, and retrieval while identifying outdated items.
+  
 ### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*
+  Implemented a queue-based simulator to manage virtual ride lines and transitions, optimizing ride scheduling and customer flow.
+
 ### ML_Project World Happiness Report — *Numpy, Pandas, Seaborn, Scikit-learn, Matplotlip*(Private Repo)
 *Note: Repository is private due to program restrictions.*
-
-## 🧠 Current Involvement
-### 👩‍💻 **Machine Learning/AI Fellow**, Break Through Tech – Cornell Tech  
-*May 2025 – Present*  
-Selected from over 3,000 applicants to participate in a 12-month program focused on end-to-end ML pipelines.  
-Hands-on experience with model training, hyperparameter tuning, and data visualization using Python libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
-
 
 
 ## 💬 Hobbies & Interests

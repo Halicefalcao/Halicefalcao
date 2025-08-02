@@ -1,4 +1,4 @@
-##  Hi there, I'm Halice Sachin Falcao! 👋 
+## Hi there, I'm Halice Sachin Falcao! 👋
 
 ## 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-blue?logo=java)
@@ -16,31 +16,26 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python)
 
-
 ## 📌 Projects
-### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*
-  Created a two-player Tic-Tac-Toe game with command-line and GUI interfaces using Tkinter, including input validation and optimized game logic.
+### ❌⭕ [tic-tac-toe-game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*  
+Created a two-player Tic-Tac-Toe game with command-line and GUI interfaces using Tkinter, including input validation and optimized game logic.
 
-### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*
-  Built a stack-based system to efficiently manage package sorting, tracking, and retrieval while identifying outdated items.
-  
-### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*
-  Implemented a queue-based simulator to manage virtual ride lines and transitions, optimizing ride scheduling and customer flow.
+### 📦 [mailroom-package-simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*  
+Built a stack-based system to efficiently manage package sorting, tracking, and retrieval, while identifying outdated items.
 
-### ML_Project World Happiness Report — *Numpy, Pandas, Seaborn, Scikit-learn, Matplotlip*(Private Repo)
+### 🎢 [theme-park-queue-simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*  
+Implemented a queue-based simulator to manage virtual ride lines and transitions, optimizing ride scheduling and customer flow.
+
+### ml-project-world-happiness-report — *NumPy, Pandas, Seaborn, Scikit-learn, Matplotlib* (Private Repo)  
 *Note: Repository is private due to program restrictions.*
 
-
 ## 💬 Hobbies & Interests
-Outside of programming, I love:
+Outside of programming, I enjoy:  
 - 🎨 Painting as a creative outlet and stress reliever  
-- 👩‍💻 Mentoring and collaborating on student tech projects
+- 👩‍💻 Mentoring and collaborating on student tech projects  
 - 💻 Participating in student tech communities like **SBCS Project Quack** to collaborate on real-world projects and expand my technical network
 
-
-## 📬 Get in Touch
-
+## 📬 Get in Touch  
 📧 hallysfalcao@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/halicefalcao)  
 💻 [GitHub](https://github.com/Halicefalcao)
-

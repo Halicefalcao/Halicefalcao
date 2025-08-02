@@ -22,7 +22,7 @@
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/Halicefalcao/TicTacToe-Game) — *Python*
 ### 📦 [Mailroom Package Simulator](https://github.com/Halicefalcao/Mailroom-Package-Management-Simulator) — *Java*
 ### 🎢 [Theme Park Queue Simulator](https://github.com/Halicefalcao/Theme-Park-System-Simulator-) — *Java*
-### ML_Project World Happiness Report (Private Repo)
+### ML_Project World Happiness Report — *Numpy, Pandas, Seaborn, Scikit-learn, Matplotlip*(Private Repo)
 *Note: Repository is private due to program restrictions.*
 
 ## 🧠 Current Involvement
